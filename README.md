@@ -1,4 +1,4 @@
-# 🚢 Titanic Machine Learning Playground
+# Machine Learning Playground
 
 An interactive **Streamlit-based Machine Learning application** for exploring the any dataset, preprocessing data, training classification models, evaluating their performance, making predictions, and visualizing feature importance.
 
